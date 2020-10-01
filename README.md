@@ -20,8 +20,16 @@
 [fb]: https://www.facebook.com/profile.php?id=1111607207
 [github]: https://github.com/singhwarrior/
 
-### Languages
+<br/>
+<br/>
+
+### Programming Languages
 
 [<img align="left" alt="https://img.icons8.com" width="40px" src="https://img.icons8.com/dusk/64/000000/java-coffee-cup-logo.png"/>][java]
+[<img align="left" alt="https://img.icons8.com" width="40px" src="https://img.icons8.com/dusk/64/000000/python.png"/>][python]
+[<img align="left" alt="https://img.icons8.com" width="40px" src="https://img.icons8.com/dusk/64/000000/scala.png"/>][scala]
+
 
 [java]: https://www.java.com/en/
+[python]: https://www.python.org/
+[scala]: https://www.scala-lang.org/
