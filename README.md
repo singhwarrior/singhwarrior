@@ -19,3 +19,7 @@
 [twitter]: https://twitter.com/singhh_gaurav
 [fb]: https://www.facebook.com/profile.php?id=1111607207
 [github]: https://github.com/singhwarrior/
+
+### Languages
+
+[<img align="left" alt="https://img.icons8.com" width="40px" src="https://img.icons8.com/dusk/64/000000/java-coffee-cup-logo.png"/>][https://www.java.com/en/]
