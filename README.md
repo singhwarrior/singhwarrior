@@ -33,3 +33,15 @@
 [java]: https://www.java.com/en/
 [python]: https://www.python.org/
 [scala]: https://www.scala-lang.org/
+
+### Distributed Technologies & Databases
+
+
+[<img align="left" alt="https://img.icons8.com" width="40px" src="https://img.icons8.com/color/64/000000/kubernetes.png"/>][kuberenetes]
+[<img align="left" alt="https://kafka.apache.org" width="40px" src="https://kafka.apache.org/images/apache-kafka.png"/>]
+
+
+
+[kuberenetes]: https://kubernetes.io/
+
+
