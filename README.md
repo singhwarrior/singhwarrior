@@ -14,4 +14,7 @@
 <img align="left" alt="http://i.imgur.com" width="40px" src="http://i.imgur.com/P3YfQoD.png"/>
 <img align="left" alt="http://i.imgur.com" width="40px" src="http://i.imgur.com/0o48UoR.png"/>
 
-
+[linkedin]: https://www.linkedin.com/in/gauravsinghraj/
+[fb]: https://www.facebook.com/profile.php?id=1111607207
+[twitter]: https://twitter.com/singhh_gaurav
+[github]: https://github.com/singhwarrior/
