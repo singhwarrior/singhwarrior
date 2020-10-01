@@ -13,6 +13,7 @@
 <img align="left" alt="http://i.imgur.com" width="40px" src="http://i.imgur.com/tXSoThF.png"/>
 <img align="left" alt="http://i.imgur.com" width="40px" src="http://i.imgur.com/P3YfQoD.png"/>
 <img align="left" alt="http://i.imgur.com" width="40px" src="http://i.imgur.com/0o48UoR.png"/>
+[<img align="left" alt="https://img.icons8.com" width="40px" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/gauravsinghraj/
 [fb]: https://www.facebook.com/profile.php?id=1111607207
