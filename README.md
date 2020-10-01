@@ -10,11 +10,9 @@
 
 ### 📫 How to reach me: 
 
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
-[3.1]: http://i.imgur.com/yCsTjba.png (google plus icon with padding)
-[4.1]: http://i.imgur.com/YckIOms.png (tumblr icon with padding)
-[5.1]: http://i.imgur.com/1AGmwO3.png (dribbble icon with padding)
-[6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+[<img align="left" alt="http://i.imgur.com" width="22px" src="http://i.imgur.com/tXSoThF.png"/>]
+[<img align="left" alt="http://i.imgur.com/P3YfQoD.png" width="22px" src="http://i.imgur.com/tXSoThF.png"/>]
+[<img align="left" alt="http://i.imgur.com/0o48UoR.png" width="22px" src="http://i.imgur.com/tXSoThF.png"/>]
+[<img align="left" alt="http://i.imgur.com" width="22px" src="http://i.imgur.com/tXSoThF.png"/>]
 
 
