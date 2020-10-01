@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about Bigdata technologies, Distrubuted applications, Programming Languages and Paradigms.
 - 📫 How to reach me: LinkedIn  https://www.linkedin.com/in/gauravsinghraj/
 - 😄 Pronouns: he/his
-- ⚡ Fun fact: Ride to explore of places!!
+- ⚡ Fun fact: Ride to explore places!!
 
