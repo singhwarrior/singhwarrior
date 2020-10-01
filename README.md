@@ -39,9 +39,9 @@
 
 ### Distributed Technologies & Databases
 
-[<img align="left" alt="https://commons.wikimedia.org" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg"/>][spark]
-[<img align="left" alt="https://img.icons8.com" width="40px" src="https://img.icons8.com/color/64/000000/kubernetes.png"/>][kuberenetes]
-[<img align="left" alt="https://kafka.apache.org" width="40px" src="https://kafka.apache.org/images/apache-kafka.png"/>][kafka]
+[<img align="left" alt="https://commons.wikimedia.org" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg"/>][spark]
+[<img align="left" alt="https://img.icons8.com" width="60px" src="https://img.icons8.com/color/64/000000/kubernetes.png"/>][kuberenetes]
+[<img align="left" alt="https://kafka.apache.org" width="60px" src="https://kafka.apache.org/images/apache-kafka.png"/>][kafka]
 
 
 [spark]: https://spark.apache.org/
