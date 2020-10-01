@@ -22,4 +22,6 @@
 
 ### Languages
 
-[<img align="left" alt="https://img.icons8.com" width="40px" src="https://img.icons8.com/dusk/64/000000/java-coffee-cup-logo.png"/>][https://www.java.com/en/]
+[<img align="left" alt="https://img.icons8.com" width="40px" src="https://img.icons8.com/dusk/64/000000/java-coffee-cup-logo.png"/>][java]
+
+[java]: https://www.java.com/en/
