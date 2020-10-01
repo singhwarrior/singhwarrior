@@ -8,11 +8,10 @@
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: Ride to explore places!!
 
-### 📫 How to reach me: 
+### How to reach me: 
 
 [<img align="left" alt="http://i.imgur.com" width="22px" src="http://i.imgur.com/tXSoThF.png"/>]
-[<img align="left" alt="http://i.imgur.com/P3YfQoD.png" width="22px" src="http://i.imgur.com/tXSoThF.png"/>]
-[<img align="left" alt="http://i.imgur.com/0o48UoR.png" width="22px" src="http://i.imgur.com/tXSoThF.png"/>]
-[<img align="left" alt="http://i.imgur.com" width="22px" src="http://i.imgur.com/tXSoThF.png"/>]
+[<img align="left" alt="http://i.imgur.com" width="22px" src="http://i.imgur.com/P3YfQoD.png"/>]
+[<img align="left" alt="http://i.imgur.com" width="22px" src="http://i.imgur.com/0o48UoR.png"/>]
 
 
