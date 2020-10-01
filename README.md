@@ -1,9 +1,5 @@
 ### Hello I am Gaurav Singh 👋
 
-
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on implementing production ready datastructure and algorithms in Java.
 - 🌱 I’m currently learning advance Data Structure and Algorithms.
 - 👯 I’m looking to collaborate on implementing distributed frameworks like kuberenetes, distributed messaging brokers like kafka and distributed databases.
