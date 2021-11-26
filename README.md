@@ -1,10 +1,10 @@
 ### Hello I am Gaurav Singh 👋
 
-- 🔭 I’m currently working on implementing production ready datastructure and algorithms in Java.
-- 🌱 I’m currently learning advance Data Structure and Algorithms.
+- 🔭 Working on building cost effective DataLake which can give ease of getting business insights. 
+- 🌱 Like to explore more on advanced Data Structure and Algorithms.
 - 👯 I’m looking to collaborate on implementing distributed frameworks like kuberenetes, distributed messaging brokers like kafka and distributed databases.
 - 🤔 I’m looking for help with experts who work on building distributed frameworks.
-- 💬 Ask me about Bigdata technologies, Distrubuted applications, Programming Languages and Paradigms.
+- 💬 Ask me about Bigdata technologies, Distrubuted applications, Microservices, Programming Languages and Programming Paradigms.
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: Ride to explore places!!
 
