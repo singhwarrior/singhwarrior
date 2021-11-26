@@ -8,7 +8,7 @@
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: Ride to explore places!!
 
-### How to reach me: 
+### How to reach me 
 
 [<img align="left" alt="https://img.icons8.com" width="40px" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>][linkedin]
 [<img align="left" alt="https://img.icons8.com" width="40px" src="https://img.icons8.com/cute-clipart/50/000000/twitter.png"/>][twitter]
@@ -44,11 +44,18 @@
 [<img align="left" alt="https://kafka.apache.org" width="60px" src="https://kafka.apache.org/images/apache-kafka.png"/>][kafka]
 [<img align="left" alt="https://commons.wikimedia.org" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg"/>][mongodb]
 [<img align="left" alt="https://commons.wikimedia.org" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Cassandra_logo.svg"/>][cassandra]
+[<img align="left" alt="https://commons.wikimedia.org" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/archive/b/bb/20151019204429%21Apache_Hive_logo.svg"/>][Apache HIVE]
 
 [spark]: https://spark.apache.org/
 [kuberenetes]: https://kubernetes.io/
 [kafka]: https://kafka.apache.org/
 [mongodb]: https://www.mongodb.com/
 [cassandra]: https://cassandra.apache.org/
+[Apache HIVE]: https://hive.apache.org/
 
+### Orchestrator
+
+[<img align="left" alt="https://commons.wikimedia.org" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png"/>][Apache Airflow]
+
+[Apache Airflow]: https://airflow.apache.org/
 
